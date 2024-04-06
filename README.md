@@ -1,4 +1,4 @@
-### **$$\boxed{\color{lightgreen} Hello \space World}$$** 🌎 
+### **Hello World** 🌎 
 
 My first repository
 <!--
