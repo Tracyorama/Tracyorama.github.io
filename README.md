@@ -1,6 +1,6 @@
 ### **Hello World** 🌎 ⚧️ 🏳️‍⚧️  •⍼
 
-Project forked from https://codenerve.github.io
+Amateur Human
 <!--
 **Tracyorama/Tracyorama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
