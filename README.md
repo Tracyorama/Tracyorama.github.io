@@ -1,6 +1,6 @@
 ### **Hello World** 🌎 ⚧️ 🏳️‍⚧️  •⍼
 
-Amateur Human
+Trying to fork this repo from CodeNerve.githuh.io
 <!--
 **Tracyorama/Tracyorama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
